@@ -30,11 +30,20 @@
 
 ### 12. Elabore um algoritmo que leia um número e imprima uma das mensagens: é múltiplo de 3, ou, não é múltiplo de 3. 
 
-### 13. Elabore um algoritmo que leia dois números e responda se a divisão do primeiro pelo segundo é exata (o resto da divisão deve ser igual a 0). Se for, o algoritmo deve imprimir a mensagem “A divisão de (1º numero) por (2º número) é exata”.  
+### 13. Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido. 
 
-### 14. Elabore um algoritmo que leia um número e informe se ele é divisível por 10, por 5 e por 2 (ao mesmo tempo), ou não
+### 14. Faça um programa que leia um nome de usuário e a sua senha e não aceite a senha igual ao nome do usuário, mostrando uma mensagem de erro e voltando a pedir as informações. 
 
-### 15. Elabore um algoritmo que entre com o valor de x, calcule e imprima o valor de f(x).
-       f(x) =       8                   
-                -----------               
-                   2 – x 
+### 15. Faça um programa que leia e valide as seguintes informações:
+Nome: maior que 3 caracteres;
+Idade: entre 0 e 150;
+Salário: maior que zero;
+Sexo: 'f' ou 'm';
+Estado Civil: 's', 'c', 'v', 'd';
+Dica: se sua variável é texto, o tamanho dela está armazenado em: texto.length
+
+### 16. Faça um programa que imprima na tela os números de 1 a 20, um abaixo do outro. Depois modifique o programa para que ele mostre os números um ao lado do outro.
+ 
+### 17. Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.
+
+### 18. Faça um programa que receba dois números inteiros e gere os números inteiros que estão no intervalo compreendido por eles.
